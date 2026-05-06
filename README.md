@@ -1,7 +1,7 @@
 # EchoPurge 🔍
 
 > **Advanced Duplicate File Hunter & Purger**  
-> Made by [Monish Paramasivam](https://github.com/monishparamasivam)
+> Made by [Monish Paramasivam](https://github.com/monish4030)
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -42,7 +42,7 @@ EchoPurge uses a **3-pass detection engine** to find and remove duplicate files 
 
 ```bash
 # Clone the repo
-git clone https://github.com/monishparamasivam/echopurge.git
+git clone https://github.com/monish4030/echopurge.git
 cd echopurge
 
 # (Optional) make it executable
