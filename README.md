@@ -176,7 +176,7 @@ This means even a 100 GB media library only fully hashes a small fraction of fil
 
 ## 📜 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-red?style=for-the-badge)
 
 ---
 
